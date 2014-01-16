@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "engine.io": "0.7.x",
+    "debug": "0.7.x",
     "comm.io-client": "git://github.com/geky/comm.io-client"
   }
 }
